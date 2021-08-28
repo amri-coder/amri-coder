@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...I'm verry happy !
 
 ### Talk with me, I am Amri Maher awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href="https://www.linkedin.com/in/maher-amri-302228187/" />](https://www.linkedin.com/in/amri-amri-302228187/)
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href="https://www.linkedin.com/in/maher-amri-302228187/" />](https://www.linkedin.com/in/maher-amri-302228187/)
 
 <br />
 
