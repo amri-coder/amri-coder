@@ -4,12 +4,12 @@
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with Docker
 - 💬 Ask me about ... Anything
-- :mailbox: How to reach me [linkedin](https://www.linkedin.com/in/amri-amri-302228187/)
+- :mailbox: How to reach me [linkedin](https://www.linkedin.com/in/maher-amri-302228187/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...I'm verry happy !
 
 ### Talk with me, I am Amri Maher awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href="https://www.linkedin.com/in/amri-amri-302228187/" />](https://www.linkedin.com/in/amri-amri-302228187/)
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href="https://www.linkedin.com/in/maher-amri-302228187/" />](https://www.linkedin.com/in/amri-amri-302228187/)
 
 <br />
 
