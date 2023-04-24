@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on symfony and react
+- 🔭 I’m currently working on Java/Jee and Angular
 - 🌱 I’m currently learning another programming language
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with Docker
